@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ['16225550'])
-API_HASH = environ['160343c3d2eaf54b556ad5a7c72a3b83']
-BOT_TOKEN = environ['5312771340:AAERV3MbatJatvE_iZ1H0D3QxDy5bbikNoU']
+API_ID = int(environ.get('API_ID', '16225550'))
+API_HASH = environ.get('API_HASH', '160343c3d2eaf54b556ad5a7c72a3b83')
+BOT_TOKEN = environ.get('BOT_TOKEN', "5312771340:AAF3qvqPXHGwA02rYnpjHXuCVfyNU95N3m8")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -28,7 +28,7 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5e2d4418525832bc9a
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1345179077').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001265527593').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001883857269').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1345179077').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('AUTH_CHANNEL')
