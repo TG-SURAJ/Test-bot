@@ -909,11 +909,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('👑 Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK)
+                    InlineKeyboardButton('🍁 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('☣️ Aʙᴏᴜᴛ', callback_data='about'),
-                    InlineKeyboardButton('♻️ Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ', switch_inline_query_current_chat='')
+                    InlineKeyboardButton('♻️ Aʙᴏᴜᴛ', callback_data='about'),
                 ],[
                     InlineKeyboardButton('Cʟᴏsᴇ ✗', callback_data="close_data")
                   ]]
