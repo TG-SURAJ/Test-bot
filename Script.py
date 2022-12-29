@@ -111,25 +111,25 @@ Dᴇᴠᴇʟᴏᴘᴇʀ:
 
     ADMIN_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Aᴅᴍɪɴs Mᴏᴅᴜʟᴇ ⍟</b>
 
-<b>✯Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b>
-• /logs - <code>ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ</code>
-• /stats - <code>ᴛᴏ ɢᴇᴛ ꜱᴛᴀᴛᴜꜱ ᴏꜰ ꜰɪʟᴇꜱ ɪɴ ᴅʙ. [Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏᴏɴᴇ]</code>
-• /delete - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴇ ꜰʀᴏᴍ ᴅʙ.</code>
-• /users - <code>ᴛᴏ ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴍʏ ᴜꜱᴇʀꜱ ᴀɴᴅ ɪᴅꜱ.</code>
-• /chats - <code>ᴛᴏ ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴍʏ ᴄʜᴀᴛꜱ ᴀɴᴅ ɪᴅꜱ</code>
-• /leave  - <code>ᴛᴏ ʟᴇᴀᴠᴇ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ.</code>
-• /disable  -  <code>ᴛᴏ ᴅɪꜱᴀʙʟᴇ ᴀ ᴄʜᴀᴛ.</code>
-• /ban  - <code>ᴛᴏ ʙᴀɴ ᴀ ᴜꜱᴇʀ.</code>
-• /unban  - <code>ᴛᴏ ᴜɴʙᴀɴ ᴀ ᴜꜱᴇʀ.</code>
-• /channel - <code>ᴛᴏ ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴛᴏᴛᴀʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟꜱ</code>
-• /broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴀ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜꜱᴇʀꜱ</code>
-• /grp_broadcast - <code>Tᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ɢʀᴏᴜᴘs.</code>
-• /gfilter - <code>ᴛᴏ ᴀᴅᴅ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀs</code>
-• /gfilters - <code>ᴛᴏ ᴠɪᴇᴡ ʟɪsᴛ ᴏғ ᴀʟʟ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀs</code>
-• /delg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ</code>
-• /request - <code>Tᴏ sᴇɴᴅ ᴀ Mᴏᴠɪᴇ/Sᴇʀɪᴇs ʀᴇᴏ̨ᴜᴇsᴛ ᴛᴏ ʙᴏᴛ ᴀᴅᴍɪɴs. Oɴʟʏ ᴡᴏʀᴋs ᴏɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ. [Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏᴏɴᴇ]</code>
-• /delallg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ Gғɪʟᴛᴇʀs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
-• /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
+<b>✯Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
+• /logs - Tᴏ Gᴇᴛ Tʜᴇ Rᴇᴄᴇɴᴛ Eʀʀᴏʀꜱ.
+• /stats - Tᴏ Gᴇᴛ Sᴛᴀᴛᴜꜱ Oꜰ Fɪʟᴇꜱ Iɴ Dʙ. [Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏᴏɴᴇ]
+• /delete - Tᴏ Dᴇʟᴇᴛᴇ A Sᴘᴇᴄɪꜰɪᴄ Fɪʟᴇ Fʀᴏᴍ Dʙ.
+• /users - Tᴏ Gᴇᴛ Lɪꜱᴛ Oꜰ Mʏ Uꜱᴇʀꜱ Aɴᴅ Iᴅꜱ.
+• /chats - Tᴏ Gᴇᴛ Lɪꜱᴛ Oꜰ Mʏ Cʜᴀᴛꜱ Aɴᴅ Iᴅꜱ.
+• /leave  - Tᴏ Lᴇᴀᴠᴇ Fʀᴏᴍ A Cʜᴀᴛ.
+• /disable  - Tᴏ Dɪꜱᴀʙʟᴇ A Cʜᴀᴛ.
+• /ban  - Tᴏ Bᴀɴ A Uꜱᴇʀ.
+• /unban  - Tᴏ Uɴʙᴀɴ A Uꜱᴇʀ.
+• /channel - Tᴏ Gᴇᴛ Lɪꜱᴛ Oꜰ Tᴏᴛᴀʟ Cᴏɴɴᴇᴄᴛᴇᴅ Cʜᴀɴɴᴇʟꜱ.
+• /broadcast - Tᴏ Bʀᴏᴀᴅᴄᴀꜱᴛ A Mᴇꜱꜱᴀɢᴇ Tᴏ Aʟʟ Uꜱᴇʀꜱ.
+• /grp_broadcast - Tᴏ Bʀᴏᴀᴅᴄᴀsᴛ A Mᴇssᴀɢᴇ Tᴏ Aʟʟ Cᴏɴɴᴇᴄᴛᴇᴅ Gʀᴏᴜᴘs.
+• /gfilter - Tᴏ Aᴅᴅ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs.
+• /gfilters - Tᴏ Vɪᴇᴡ Lɪsᴛ Oғ Aʟʟ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs.
+• /delg - Tᴏ Dᴇʟᴇᴛᴇ A Sᴘᴇᴄɪғɪᴄ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀ.
+• /request - Tᴏ Sᴇɴᴅ A Mᴏᴠɪᴇ/Sᴇʀɪᴇs Rᴇᴏ̨ᴜᴇsᴛ Tᴏ Bᴏᴛ Aᴅᴍɪɴs. Oɴʟʏ Wᴏʀᴋs Oɴ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ. [Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏᴏɴᴇ].
+• /delallg - Tᴏ Dᴇʟᴇᴛᴇ Aʟʟ Gғɪʟᴛᴇʀs Fʀᴏᴍ Tʜᴇ Bᴏᴛ's Dᴀᴛᴀʙᴀsᴇ.
+• /deletefiles - Tᴏ Dᴇʟᴇᴛᴇ CᴀᴍRɪᴘ Aɴᴅ PʀᴇDVD Fɪʟᴇs Fʀᴏᴍ Tʜᴇ Bᴏᴛ's Dᴀᴛᴀʙᴀsᴇ.</b>
 
 <b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
 
@@ -179,7 +179,9 @@ Pʟᴇᴀꜱᴇ Cʜᴇᴄᴋ Tʜᴇ Sᴘᴇʟʟɪɴɢ Oɴ Gᴏᴏɢʟᴇ Oʀ I�
     
 • Nᴀᴍᴇ : 𝕾𝖚𝖗𝖆𝖏 👑
 • Uꜱᴇʀɴᴀᴍᴇ : @KingOf_univers
-• Pᴇʀᴍᴀɴᴇɴᴛ Dᴍ Lɪɴᴋ : <a href='t.me/KingOf_univers'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>"""
+• Pᴇʀᴍᴀɴᴇɴᴛ Dᴍ Lɪɴᴋ : <a href='t.me/KingOf_univers'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
+
+<b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
 
     REQINFO = """
 ⚠ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -221,11 +223,9 @@ Exᴀᴍᴘʟᴇ : Loki S01E01
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+<b>🔮 Sɪᴢᴇ : </b> <code>{size}</code>
 
-=========== • ✠ • ===========
-▫️ Cʜᴀɴɴᴇʟ : @Movies4youbackup
-▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : @Movies4you_SP
-=========== • ✠ • ===========</b>"""
+<b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -236,26 +236,35 @@ IMDb Data:
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
-    ALL_FILTERS = """
-<b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
-    
-    GFILTER_TXT = """
-<b>Wᴇʟᴄᴏᴍᴇ ᴛᴏ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs. Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs ᴀʀᴇ ᴛʜᴇ ғɪʟᴛᴇʀs sᴇᴛ ʙʏ ʙᴏᴛ ᴀᴅᴍɪɴs ᴡʜɪᴄʜ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴀʟʟ ɢʀᴏᴜᴘs.</b>
-    
-Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
-• /gfilter - <code>Tᴏ ᴄʀᴇᴀᴛᴇ ᴀ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ.</code>
-• /gfilters - <code>Tᴏ ᴠɪᴇᴡ ᴀʟʟ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀs.</code>
-• /delg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ.</code>
-• /delallg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀꜱ.</code>"""
-    
-    FILE_STORE_TXT = """
-<b>Fɪʟᴇ sᴛᴏʀᴇ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡʜɪᴄʜ ᴡɪʟʟ ᴄʀᴇᴀᴛᴇ ᴀ sʜᴀʀᴇᴀʙʟᴇ ʟɪɴᴋ ᴏғ ᴀ sɪɴɢʟᴇ ᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ғɪʟᴇs.</b>
+    ALL_FILTERS = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fɪʟᴛᴇʀs Mᴏᴅᴜʟᴇ ⍟</b>
 
-Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
-• /batch - <code>Tᴏ ᴄʀᴇᴀᴛᴇ ᴀ ʙᴀᴛᴄʜ ʟɪɴᴋ ᴏғ ᴍᴜʟᴛɪᴘʟᴇ ғɪʟᴇs.</code>
-• /link - <code>Tᴏ ᴄʀᴇᴀᴛᴇ ᴀ sɪɴɢʟᴇ ғɪʟᴇ sᴛᴏʀᴇ ʟɪɴᴋ.</code>
-• /pbatch - <code>Jᴜsᴛ ʟɪᴋᴇ /batch, ʙᴜᴛ ᴛʜᴇ ғɪʟᴇs ᴡɪʟʟ ʙᴇ sᴇɴᴅ ᴡɪᴛʜ ғᴏʀᴡᴀʀᴅ ʀᴇsᴛʀɪᴄᴛɪᴏɴs.</code>
-• /plink - <code>Jᴜsᴛ ʟɪᴋᴇ /link, ʙᴜᴛ ᴛʜᴇ ғɪʟᴇ ᴡɪʟʟ ʙᴇ sᴇɴᴅ ᴡɪᴛʜ ғᴏʀᴡᴀʀᴅ ʀᴇsᴛʀɪᴄᴛɪᴏɴ.</code>"""
+• <b>Hᴇʏ {}, Tʜᴇsᴇ Aʀᴇ Mʏ Tʜʀᴇᴇ Tʏᴘᴇs Oғ Fɪʟᴛᴇʀs.</b>
+
+<b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
+    
+    GFILTER_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs Mᴏᴅᴜʟᴇ ⍟</b>
+
+• <b>Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs Aʀᴇ Tʜᴇ Fɪʟᴛᴇʀs Sᴇᴛ Bʏ Bᴏᴛ Aᴅᴍɪɴs Wʜɪᴄʜ Wɪʟʟ Wᴏʀᴋ Oɴ Aʟʟ Gʀᴏᴜᴘs.</b>
+    
+<b>✮ Aᴠᴀɪʟᴀʙʟᴇ Cᴏᴍᴍᴀɴᴅs:
+• /gfilter - Tᴏ Cʀᴇᴀᴛᴇ A Gʟᴏʙᴀʟ Fɪʟᴛᴇʀ.
+• /gfilters - Tᴏ Vɪᴇᴡ Aʟʟ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs.
+• /delg - Tᴏ Dᴇʟᴇᴛᴇ A Pᴀʀᴛɪᴄᴜʟᴀʀ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀ.
+• /delallg - Tᴏ Dᴇʟᴇᴛᴇ Aʟʟ Fʟᴏʙᴀʟ Fɪʟᴛᴇʀꜱ.</b>
+
+<b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
+    
+    FILE_STORE_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fɪʟᴇ Sᴛᴏʀᴇ Mᴏᴅᴜʟᴇ ⍟</b>
+
+<b>• Fɪʟᴇ Sᴛᴏʀᴇ Is Tʜᴇ Fᴇᴀᴛᴜʀᴇ Wʜɪᴄʜ Wɪʟʟ Cʀᴇᴀᴛᴇ A Sʜᴀʀᴇᴀʙʟᴇ Lɪɴᴋ Oғ A Sɪɴɢʟᴇ Oʀ Mᴜʟᴛɪᴘʟᴇ Fɪʟᴇs.</b>
+
+<b>✮ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
+• /batch - Tᴏ Cʀᴇᴀᴛᴇ A Bᴀᴛᴄʜ Lɪɴᴋ Oғ Mᴜʟᴛɪᴘʟᴇ Fɪʟᴇs.
+• /link - Tᴏ Cʀᴇᴀᴛᴇ A Sɪɴɢʟᴇ Fɪʟᴇ Sᴛᴏʀᴇ Lɪɴᴋ.
+• /pbatch - Jᴜsᴛ Lɪᴋᴇ /batch, Bᴜᴛ ᴛʜᴇ Fɪʟᴇs Wɪʟʟ Bᴇ Sᴇɴᴅ Wɪᴛʜ Fᴏʀᴡᴀʀᴅ Rᴇsᴛʀɪᴄᴛɪᴏɴs.
+• /plink - Jᴜsᴛ Lɪᴋᴇ /link, Bᴜᴛ Tʜᴇ Fɪʟᴇ Wɪʟʟ Bᴇ Sᴇɴᴅ Wɪᴛʜ Fᴏʀᴡᴀʀᴅ Rᴇsᴛʀɪᴄᴛɪᴏɴ.</b>
+
+<b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
