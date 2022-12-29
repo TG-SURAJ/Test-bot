@@ -43,11 +43,11 @@ Dᴇᴠᴇʟᴏᴘᴇʀ:
 • Bᴏᴛ Sʜᴏᴜʟᴅ Hᴀᴠᴇ Aᴅᴍɪɴ Pʀɪᴠɪʟʟᴀɢᴇ.
 • Oɴʟʏ Aᴅᴍɪɴs Cᴀɴ Aᴅᴅ Fɪʟᴛᴇʀs.</b>
 
-<b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b>
-• /filter - <code>Aᴅᴅ A Fɪʟᴛᴇʀ Iɴ Cʜᴀᴛ</code>
-• /filters - <code>Lɪsᴛ Aʟʟ Tʜᴇ Fɪʟᴛᴇʀs Oꜰ A Cʜᴀᴛ</code>
-• /del - <code>Dᴇʟᴇᴛᴇ A Sᴘᴇᴄɪꜰɪᴄ Fɪʟᴛᴇʀ Iɴ Cʜᴀᴛ</code>
-• /delall - <code>Dᴇʟᴇᴛᴇ Tʜᴇ Wʜᴏʟᴇ Fɪʟᴛᴇʀs Iɴ A Cʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>
+<b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:
+• /filter - Aᴅᴅ A Fɪʟᴛᴇʀ Iɴ Cʜᴀᴛ
+• /filters - Lɪsᴛ Aʟʟ Tʜᴇ Fɪʟᴛᴇʀs Oꜰ A Cʜᴀᴛ
+• /del - Dᴇʟᴇᴛᴇ A Sᴘᴇᴄɪꜰɪᴄ Fɪʟᴛᴇʀ Iɴ Cʜᴀᴛ
+• /delall - Dᴇʟᴇᴛᴇ Tʜᴇ Wʜᴏʟᴇ Fɪʟᴛᴇʀs Iɴ A Cʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ).</b>
 
 <b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
 
