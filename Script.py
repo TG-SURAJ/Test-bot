@@ -223,8 +223,8 @@ Exᴀᴍᴘʟᴇ : Loki S01E01
 
     CAPTION = """
 <b>📂 Fɪʟᴇ Nᴀᴍᴇ : </b> <code>{file_name}</code>
-<b>🔮 Sɪᴢᴇ : </b> <code>{size}</code>
-"""
+
+<b>🔮 Sɪᴢᴇ : </b> <code>{size}</code>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
