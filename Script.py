@@ -221,7 +221,8 @@ Exᴀᴍᴘʟᴇ : Loki S01E01
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """
+    CAPTION = """ {file_caption}
+
 <b>🔮 Sɪᴢᴇ : </b> <code>{file_size}</code>
 
 📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
