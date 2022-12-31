@@ -240,7 +240,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("🎀 Cʜᴇᴄᴋ Bᴏᴛ PM 🎀", url=f"https://t.me/{temp.U_NAME}")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -915,6 +915,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('♻️ Aʙᴏᴜᴛ', callback_data='about'),
                 ],[
                     InlineKeyboardButton('🔎 Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ', switch_inline_query_current_chat='')
+                ],[   
                     InlineKeyboardButton('Cʟᴏsᴇ ✗', callback_data="close_data")
                   ]]
         
@@ -1361,7 +1362,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("🎀 Cʜᴇᴄᴋ Bᴏᴛ PM 🎀", url=f"https://t.me/{temp.U_NAME}")
     ])
 
     if offset != "":
