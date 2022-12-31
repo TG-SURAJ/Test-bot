@@ -225,7 +225,7 @@ Exᴀᴍᴘʟᴇ : Loki S01E01
 
 <b>🔮 Sɪᴢᴇ : </b> <code>{file_size}</code>
 
-📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
+<b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
