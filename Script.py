@@ -28,10 +28,10 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗�
     SOURCE_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sᴏᴜʀᴄᴇ Mᴏᴅᴜʟᴇ ⍟
 
 ✯ Nᴏᴛᴇ:
-• Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-• Sᴏᴜʀᴄᴇ - <a href="https://t.me/KingOf_univers">Hᴇʀᴇ</a>
-Dᴇᴠᴇʟᴏᴘᴇʀ:
-• <a href="https://t.me/KingOf_univers">𝕾𝖚𝖗𝖆𝖏 👑</a>
+• Mʏ Cᴏᴅᴇ Is Pʀɪᴠᴀᴛᴇ...
+
+✯ Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋs Tᴏ ♥️:
+• <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a>
 
 📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
 
@@ -222,9 +222,9 @@ Exᴀᴍᴘʟᴇ : Loki S01E01
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ Nᴀᴍᴇ : </b> <code>{file_name}</code>
+<b>🔮 Sɪᴢᴇ : </b> <code>{file_size}</code>
 
-<b>🔮 Sɪᴢᴇ : </b> <code>{file_size}</code>"""
+📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
