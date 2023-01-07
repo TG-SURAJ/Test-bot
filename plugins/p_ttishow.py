@@ -58,7 +58,7 @@ async def save_group(bot, message):
                         pass
                 temp.MELCOW['welcome'] = await message.reply_photo(
                                                  photo=(MELCOW_PIC),
-                                                 text=f"<b>🙋‍♂️ Hᴇʏ! {u.mention}, Wᴇʟᴄᴏᴍᴇ Tᴏ {message.chat.title}💓\n\n<b>🥺Pʟᴇᴀsᴇ Jᴏɪɴ Oᴜʀ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ</b>",
+                                                 caption=f"<b>🙋‍♂️ Hᴇʏ! {u.mention}, Wᴇʟᴄᴏᴍᴇ Tᴏ {message.chat.title}💓\n\n<b>🥺Pʟᴇᴀsᴇ Jᴏɪɴ Oᴜʀ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ</b>",
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
                                                                            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
