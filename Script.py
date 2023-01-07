@@ -172,7 +172,7 @@ Pʟᴇᴀꜱᴇ Cʜᴇᴄᴋ Tʜᴇ Sᴘᴇʟʟɪɴɢ Oɴ Gᴏᴏɢʟᴇ Oʀ I�
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
-    MELCOW_ENG = """<b>🙋‍♂️ Hᴇʏ! {u.mention}, Wᴇʟᴄᴏᴍᴇ Tᴏ {message.chat.title}💓\n\n<b>🥺Pʟᴇᴀsᴇ Jᴏɪɴ Oᴜʀ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ Aɴᴅ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ</b>"""
+    MELCOW_ENG = """<b>🙋‍♂️ Hᴇʏ! {}🙂, Wᴇʟᴄᴏᴍᴇ Tᴏ {message.chat.title}💓\n\n<b>🥺Pʟᴇᴀsᴇ Jᴏɪɴ Oᴜʀ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ Aɴᴅ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ</b>"""
 
     OWNER_INFO = """
 <b>⍟───[ Oᴡɴᴇʀ Eᴇᴛᴀɪʟꜱ ]───⍟
