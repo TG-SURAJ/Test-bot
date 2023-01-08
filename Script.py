@@ -20,7 +20,6 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗�
 ❍ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ❍ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ❍ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-❍ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://mogenius.com/'>Mᴏɢᴇɴɪᴜs</a>
 ❍ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]
 
 📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
@@ -228,13 +227,14 @@ Exᴀᴍᴘʟᴇ : Loki S01E01
 <b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b>Query: {query}
-IMDb Data:
-
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+<b>🏷 Tɪᴛʟᴇ</b> : <b>{title} {year}</b>
+<b>🌟 Rᴀᴛɪɴɢ</b> : <b>{rating}</b>
+<b>💎 Gᴇɴʀᴇs</b> : <b>{genres}</b>
+<b>⏰ Dᴜʀᴀᴛɪᴏɴ</b> : <b>{runtime}</b>
+<b>🔖 Sʜᴏʀᴛ Iɴғᴏ</b> : <code>{plot}</code>
+<b>•────•────────•─────•
+ 🎀 @Movies4youbackup 🎀
+•────•────────•─────•</b>"""
     
     ALL_FILTERS = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fɪʟᴛᴇʀs Mᴏᴅᴜʟᴇ ⍟</b>
 
