@@ -141,11 +141,7 @@
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=koyeb&name=dqthefiledonor)
 </details>
 
-<details><summary>Deploy on Railway</summary>
-<a href="https://railway.app/new/template/y0ryFO">
-<img src="https://railway.app/button.svg" alt="Deploy on Railway">
-</a>
-</details>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/VanDjR?referralCode=Suraj12)
 
 <details><summary> Deploy To Okteto </summary>
 <br>
